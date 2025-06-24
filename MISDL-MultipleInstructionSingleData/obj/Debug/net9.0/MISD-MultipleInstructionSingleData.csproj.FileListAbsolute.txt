@@ -1,0 +1,11 @@
+C:\Users\hp\OneDrive\Escritorio\pruebas\ParalelismoApp\MISDL-MultipleInstructionSingleData\bin\Debug\net9.0\MISD-MultipleInstructionSingleData.deps.json
+C:\Users\hp\OneDrive\Escritorio\pruebas\ParalelismoApp\MISDL-MultipleInstructionSingleData\bin\Debug\net9.0\MISD-MultipleInstructionSingleData.dll
+C:\Users\hp\OneDrive\Escritorio\pruebas\ParalelismoApp\MISDL-MultipleInstructionSingleData\bin\Debug\net9.0\MISD-MultipleInstructionSingleData.pdb
+C:\Users\hp\OneDrive\Escritorio\pruebas\ParalelismoApp\MISDL-MultipleInstructionSingleData\obj\Debug\net9.0\MISD-MultipleInstructionSingleData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Escritorio\pruebas\ParalelismoApp\MISDL-MultipleInstructionSingleData\obj\Debug\net9.0\MISD-MultipleInstructionSingleData.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Escritorio\pruebas\ParalelismoApp\MISDL-MultipleInstructionSingleData\obj\Debug\net9.0\MISD-MultipleInstructionSingleData.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Escritorio\pruebas\ParalelismoApp\MISDL-MultipleInstructionSingleData\obj\Debug\net9.0\MISD-MultipleInstructionSingleData.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Escritorio\pruebas\ParalelismoApp\MISDL-MultipleInstructionSingleData\obj\Debug\net9.0\MISD-MultipleInstructionSingleData.dll
+C:\Users\hp\OneDrive\Escritorio\pruebas\ParalelismoApp\MISDL-MultipleInstructionSingleData\obj\Debug\net9.0\refint\MISD-MultipleInstructionSingleData.dll
+C:\Users\hp\OneDrive\Escritorio\pruebas\ParalelismoApp\MISDL-MultipleInstructionSingleData\obj\Debug\net9.0\MISD-MultipleInstructionSingleData.pdb
+C:\Users\hp\OneDrive\Escritorio\pruebas\ParalelismoApp\MISDL-MultipleInstructionSingleData\obj\Debug\net9.0\ref\MISD-MultipleInstructionSingleData.dll
