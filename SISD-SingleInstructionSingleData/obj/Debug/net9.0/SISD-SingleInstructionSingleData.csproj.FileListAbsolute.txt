@@ -1,0 +1,11 @@
+C:\Users\hp\OneDrive\Escritorio\pruebas\ParalelismoApp\SISD-SingleInstructionSingleData\bin\Debug\net9.0\SISD-SingleInstructionSingleData.deps.json
+C:\Users\hp\OneDrive\Escritorio\pruebas\ParalelismoApp\SISD-SingleInstructionSingleData\bin\Debug\net9.0\SISD-SingleInstructionSingleData.dll
+C:\Users\hp\OneDrive\Escritorio\pruebas\ParalelismoApp\SISD-SingleInstructionSingleData\bin\Debug\net9.0\SISD-SingleInstructionSingleData.pdb
+C:\Users\hp\OneDrive\Escritorio\pruebas\ParalelismoApp\SISD-SingleInstructionSingleData\obj\Debug\net9.0\SISD-SingleInstructionSingleData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Escritorio\pruebas\ParalelismoApp\SISD-SingleInstructionSingleData\obj\Debug\net9.0\SISD-SingleInstructionSingleData.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Escritorio\pruebas\ParalelismoApp\SISD-SingleInstructionSingleData\obj\Debug\net9.0\SISD-SingleInstructionSingleData.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Escritorio\pruebas\ParalelismoApp\SISD-SingleInstructionSingleData\obj\Debug\net9.0\SISD-SingleInstructionSingleData.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Escritorio\pruebas\ParalelismoApp\SISD-SingleInstructionSingleData\obj\Debug\net9.0\SISD-SingleInstructionSingleData.dll
+C:\Users\hp\OneDrive\Escritorio\pruebas\ParalelismoApp\SISD-SingleInstructionSingleData\obj\Debug\net9.0\refint\SISD-SingleInstructionSingleData.dll
+C:\Users\hp\OneDrive\Escritorio\pruebas\ParalelismoApp\SISD-SingleInstructionSingleData\obj\Debug\net9.0\SISD-SingleInstructionSingleData.pdb
+C:\Users\hp\OneDrive\Escritorio\pruebas\ParalelismoApp\SISD-SingleInstructionSingleData\obj\Debug\net9.0\ref\SISD-SingleInstructionSingleData.dll

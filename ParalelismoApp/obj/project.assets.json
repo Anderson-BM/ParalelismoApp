@@ -1,0 +1,159 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "MIMD-MultipleInstructionMultipleData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/MIMD-MultipleInstructionMultipleData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MIMD-MultipleInstructionMultipleData.dll": {}
+        }
+      },
+      "MISD-MultipleInstructionSingleData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/MISD-MultipleInstructionSingleData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MISD-MultipleInstructionSingleData.dll": {}
+        }
+      },
+      "SIMD-SingleInstructionMultipleData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/SIMD-SingleInstructionMultipleData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SIMD-SingleInstructionMultipleData.dll": {}
+        }
+      },
+      "SISD-SingleInstructionSingleData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/SISD-SingleInstructionSingleData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SISD-SingleInstructionSingleData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MIMD-MultipleInstructionMultipleData/1.0.0": {
+      "type": "project",
+      "path": "../MIMDL-MultipleInstructionMultipleData/MIMD-MultipleInstructionMultipleData.csproj",
+      "msbuildProject": "../MIMDL-MultipleInstructionMultipleData/MIMD-MultipleInstructionMultipleData.csproj"
+    },
+    "MISD-MultipleInstructionSingleData/1.0.0": {
+      "type": "project",
+      "path": "../MISDL-MultipleInstructionSingleData/MISD-MultipleInstructionSingleData.csproj",
+      "msbuildProject": "../MISDL-MultipleInstructionSingleData/MISD-MultipleInstructionSingleData.csproj"
+    },
+    "SIMD-SingleInstructionMultipleData/1.0.0": {
+      "type": "project",
+      "path": "../SIMDL-SingleInstruction,MultipleData/SIMD-SingleInstructionMultipleData.csproj",
+      "msbuildProject": "../SIMDL-SingleInstruction,MultipleData/SIMD-SingleInstructionMultipleData.csproj"
+    },
+    "SISD-SingleInstructionSingleData/1.0.0": {
+      "type": "project",
+      "path": "../SISD-SingleInstructionSingleData/SISD-SingleInstructionSingleData.csproj",
+      "msbuildProject": "../SISD-SingleInstructionSingleData/SISD-SingleInstructionSingleData.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "MIMD-MultipleInstructionMultipleData >= 1.0.0",
+      "MISD-MultipleInstructionSingleData >= 1.0.0",
+      "SIMD-SingleInstructionMultipleData >= 1.0.0",
+      "SISD-SingleInstructionSingleData >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\hp\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Escritorio\\pruebas\\ParalelismoApp\\ParalelismoApp\\ParalelismoApp.csproj",
+      "projectName": "ParalelismoApp",
+      "projectPath": "C:\\Users\\hp\\OneDrive\\Escritorio\\pruebas\\ParalelismoApp\\ParalelismoApp\\ParalelismoApp.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hp\\OneDrive\\Escritorio\\pruebas\\ParalelismoApp\\ParalelismoApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "C:\\Users\\hp\\OneDrive\\Escritorio\\pruebas\\ParalelismoApp\\MIMDL-MultipleInstructionMultipleData\\MIMD-MultipleInstructionMultipleData.csproj": {
+              "projectPath": "C:\\Users\\hp\\OneDrive\\Escritorio\\pruebas\\ParalelismoApp\\MIMDL-MultipleInstructionMultipleData\\MIMD-MultipleInstructionMultipleData.csproj"
+            },
+            "C:\\Users\\hp\\OneDrive\\Escritorio\\pruebas\\ParalelismoApp\\MISDL-MultipleInstructionSingleData\\MISD-MultipleInstructionSingleData.csproj": {
+              "projectPath": "C:\\Users\\hp\\OneDrive\\Escritorio\\pruebas\\ParalelismoApp\\MISDL-MultipleInstructionSingleData\\MISD-MultipleInstructionSingleData.csproj"
+            },
+            "C:\\Users\\hp\\OneDrive\\Escritorio\\pruebas\\ParalelismoApp\\SIMDL-SingleInstruction,MultipleData\\SIMD-SingleInstructionMultipleData.csproj": {
+              "projectPath": "C:\\Users\\hp\\OneDrive\\Escritorio\\pruebas\\ParalelismoApp\\SIMDL-SingleInstruction,MultipleData\\SIMD-SingleInstructionMultipleData.csproj"
+            },
+            "C:\\Users\\hp\\OneDrive\\Escritorio\\pruebas\\ParalelismoApp\\SISD-SingleInstructionSingleData\\SISD-SingleInstructionSingleData.csproj": {
+              "projectPath": "C:\\Users\\hp\\OneDrive\\Escritorio\\pruebas\\ParalelismoApp\\SISD-SingleInstructionSingleData\\SISD-SingleInstructionSingleData.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParalelismoApp", "ParalelismoApp\ParalelismoApp.csproj", "{0BCF815D-13A9-4682-9E33-D5437A2DB543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SISD-SingleInstructionSingleData", "SISD-SingleInstructionSingleData\SISD-SingleInstructionSingleData.csproj", "{5648CC8B-CF23-4F13-BB23-0D0855ED94E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIMD-SingleInstructionMultipleData", "SIMDL-SingleInstruction,MultipleData\SIMD-SingleInstructionMultipleData.csproj", "{DA56A8F3-4259-4C84-8616-73C4508BA5EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISD-MultipleInstructionSingleData", "MISDL-MultipleInstructionSingleData\MISD-MultipleInstructionSingleData.csproj", "{D6CB8F29-6AF3-4327-9260-D909A5281592}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIMD-MultipleInstructionMultipleData", "MIMDL-MultipleInstructionMultipleData\MIMD-MultipleInstructionMultipleData.csproj", "{A7B63D24-51F4-4B21-8B71-154365BB555B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BCF815D-13A9-4682-9E33-D5437A2DB543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BCF815D-13A9-4682-9E33-D5437A2DB543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BCF815D-13A9-4682-9E33-D5437A2DB543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BCF815D-13A9-4682-9E33-D5437A2DB543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5648CC8B-CF23-4F13-BB23-0D0855ED94E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5648CC8B-CF23-4F13-BB23-0D0855ED94E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5648CC8B-CF23-4F13-BB23-0D0855ED94E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5648CC8B-CF23-4F13-BB23-0D0855ED94E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA56A8F3-4259-4C84-8616-73C4508BA5EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA56A8F3-4259-4C84-8616-73C4508BA5EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA56A8F3-4259-4C84-8616-73C4508BA5EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA56A8F3-4259-4C84-8616-73C4508BA5EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6CB8F29-6AF3-4327-9260-D909A5281592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6CB8F29-6AF3-4327-9260-D909A5281592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6CB8F29-6AF3-4327-9260-D909A5281592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6CB8F29-6AF3-4327-9260-D909A5281592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7B63D24-51F4-4B21-8B71-154365BB555B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B63D24-51F4-4B21-8B71-154365BB555B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B63D24-51F4-4B21-8B71-154365BB555B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B63D24-51F4-4B21-8B71-154365BB555B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06FB5C89-462C-4920-B65A-2FE8E8D202AD}
+	EndGlobalSection
+EndGlobal
